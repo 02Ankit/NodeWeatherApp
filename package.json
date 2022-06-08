@@ -1,0 +1,14 @@
+{
+  "name": "weatherappnode",
+  "version": "1.0.0",
+  "description": "Create Weather App using HTML, CSS, JavaScript, NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankit Dewangan",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
